@@ -1,0 +1,45 @@
+body {
+	background-image: url("../img/England-photos-hd.jpg");
+	background-color: blue;
+}
+img {
+	height: 421px;
+	width: 424px;
+
+}
+
+a:link {
+  color : blue;
+  text-align: center;
+}
+
+a:visited{
+	color:blue;
+}
+
+a:hover {
+	color:blue;
+}
+a:active{
+	color: black;
+}
+
+h1 {
+	font-style: italic;
+	text-align: center;
+	color: pink;
+	font-size: 5em;
+}
+
+#link {
+	text-align: center;
+	font-size: 30px;
+	
+}
+
+p {
+	font-size: 2em;
+	color: brown;
+	text-align: center;
+
+}
